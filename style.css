@@ -1,0 +1,13 @@
+
+body{
+    background-color: black;
+    color: aqua;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    margin: 250px auto;
+}
